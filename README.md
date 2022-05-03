@@ -1,2 +1,6 @@
 # firebase-login-App
-    <p align="center"><img src="screenshots/starter-login.png" alt="login" width="600"></p> 
+
+Found this cool login page online and decided to do some few editting on it, by adding a functioning login page.
+used firebase since am familiar with it.
+<p align="center"><img src="screenshot/screenSignup.png" alt="login" width="600"></p> 
+<p align="center"><img src="screenshot/screenLogin.png" alt="login" width="600"></p> 
